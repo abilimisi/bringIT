@@ -1,0 +1,199 @@
+
+#title{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navbarSupportedContent ul li a{
+   font-size: 17px;
+   padding-left: 40px;
+   padding-top: 30px;
+   /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+#navbarSupportedContent ul li a:hover{
+   color: black;
+   font-weight:500;
+}
+
+#favorite{
+   font-size:30px;
+   padding-right:10px;
+   text-decoration: none;
+   color: black;
+}
+
+#cart{
+   font-size:30px;
+   padding-right:10px;
+   text-decoration:none;
+   color: black;
+}
+
+
+
+
+
+
+#first-img{
+    
+    margin-bottom:0px;
+}
+
+#discount-img{
+    margin-top: 15px ;
+    margin-bottom:25px;
+}
+
+#best-seller-img{
+      
+    margin-bottom:20px;
+}
+
+#samsung-img{
+    margin-top: 20px ;
+    margin-bottom:20px;
+}
+
+#pretty-img{
+     
+    margin-bottom:20px;
+}
+
+#play-zone{
+    margin-top: 20px ;
+    margin-bottom:20px;
+}
+
+#shop-by-age{
+    margin-top: 20px ;
+    margin-bottom:20px;
+}
+
+#little-one{
+    margin-bottom: 20px;
+}
+    
+
+
+
+ #aboutus{
+    background-color:rgb(119, 142, 119);
+    display: flex;
+    margin-top:10px;
+    font-size:14px;
+    padding: px;
+    padding-top:15px;
+ }
+
+ #first-list li{
+    margin-left: px;
+ }
+ #first-list li a{
+    text-decoration: none;
+    color: black;
+ }
+ #second-list li{
+    margin-left: px;
+ }
+
+ #second-list li a{
+    text-decoration: none;
+    color: black;
+ }
+
+ #third-list li{
+    margin-left: px;
+ }
+
+ #third-list li a{
+    text-decoration: none;
+    color: black;
+ }
+
+ #fourth-list li{
+    margin-left: px;
+ }
+
+ #fourth-list li a{
+    text-decoration: none;
+    color: black;
+ }
+
+ #aboutus ul li a:hover{
+    text-decoration: underline;
+
+    
+ }
+ 
+ #icon-all{
+   padding:px;
+   margin-top: 10px;
+ }
+
+ #first-icon{
+   font-size: 70px;
+   padding-left: px;
+ }
+
+ #second-icon{
+   font-size: 70px;
+   padding-left: px;
+ }
+
+ #third-icon{
+   font-size: 70px;
+   padding-left: px;
+ }
+ #fourth-icon{
+   font-size: 70px;
+   padding-left: px;
+ }
+
+ #icon-coment{
+   font-size:10PX;
+   text-decoration: none;
+ }
+ 
+
+
+ /* hover */
+
+ /* .list{
+   background-color: rgb(1, 139, 139);
+   padding: 1em 0;
+   position: absolute; 
+   display: none;
+   border-radius: 8px;
+   top: 35px;
+   
+ }
+
+ #list li + li {
+   margin-top: 10px;
+  } */
+
+
+ /* #services {
+   position: relative; 
+  }
+  #dropdown {
+   background-color: rgb(1, 139, 139);
+   padding: 1em 0;
+   position: absolute; /*WITH RESPECT TO PARENT*/
+   /* display: none;
+   border-radius: 8px;
+   top: 35px;
+  }
+  #dropdown li + li {
+   margin-top: 10px;
+  }
+  #dropdown li {
+   padding: 0.5em 1em;
+   width: 8em;
+   text-align: center;
+  }
+  #dropdown li:hover {
+   background-color: #4c9e9e;
+  }
+  #services:hover #dropdown {
+   display: block;
+  } */ 
